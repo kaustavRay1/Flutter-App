@@ -10,7 +10,7 @@ class CardSwipe extends StatelessWidget {
       height: 250,
       margin: const EdgeInsets.all(0.0), // Adds spacing around the container
       decoration: BoxDecoration(
-        color: Colors.blue, // Background color
+        color: Colors.white, // Background color
         borderRadius: BorderRadius.circular(20), // Rounded corners
         boxShadow: [
           BoxShadow(
