@@ -24,8 +24,6 @@ class CardSwipe extends StatelessWidget {
       child: ClipRRect(
         borderRadius: BorderRadius.circular(20), // Apply border radius to the swiper
         child: Swiper(
-          scale: 3,
-          autoplayDelay: 1000,
           allowImplicitScrolling: true,
           itemBuilder: (context, index) {
             return Image.asset(

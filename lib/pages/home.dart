@@ -63,7 +63,7 @@ class _HomePageState extends State<HomePage> {
   AppBar _appBar() {
     return AppBar(
       title: const Text(
-        'App',
+        'Breakfast',
         style: TextStyle(
           color: Colors.black,
           fontSize: 18,
